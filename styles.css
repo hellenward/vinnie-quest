@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Kode Mono", monospace;
+}
+
+.game-area {
+  width: 100%;
+  margin: auto;
+  border: 3px solid green;
+  height: 80vh;
+  text-align: center;
+}
